@@ -1,6 +1,6 @@
 {
   "name": "latam-offshore-transformer",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Transformadora de los datos de México de LATAM Offshore al estándar Popolo en JSON",
   "repository": {
     "type": "git",
